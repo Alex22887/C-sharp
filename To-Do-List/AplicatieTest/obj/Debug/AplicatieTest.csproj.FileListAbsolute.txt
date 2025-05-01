@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\bin\Debug\AplicatieTest.exe.config
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\bin\Debug\AplicatieTest.exe
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\bin\Debug\AplicatieTest.pdb
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\obj\Debug\AplicatieTest.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\obj\Debug\AplicatieTest.Form1.resources
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\obj\Debug\AplicatieTest.Properties.Resources.resources
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\obj\Debug\AplicatieTest.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\obj\Debug\AplicatieTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\obj\Debug\AplicatieTest.exe
+C:\Users\DELL\source\repos\AplicatieTest\AplicatieTest\obj\Debug\AplicatieTest.pdb
